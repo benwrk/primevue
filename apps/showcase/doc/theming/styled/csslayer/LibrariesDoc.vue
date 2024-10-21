@@ -26,7 +26,7 @@ export default {
                 basic: `
 @layer bootstrap-reboot, primevue;
 
-@import "bootstrap-reboot.css" layer(bootstrap-rebooot);
+@import "bootstrap-reboot.css" layer(bootstrap-reboot);
 `
             },
             code2: {
